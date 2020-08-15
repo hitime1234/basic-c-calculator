@@ -9,3 +9,5 @@ subtract
 add
 
 It has some limits some people will able to find.
+
+# compiled in MINGW64 and made in Clion
